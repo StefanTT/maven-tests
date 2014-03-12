@@ -12,4 +12,10 @@
   <url>https://github.com/StefanTT/maven-tests</url>
   <developerConnection>git@github.com:StefanTT/maven-tests.git</developerConnection>
  </scm>
+ <distributionManagement>
+  <repository>            
+   <id>dropbox</id>                        
+   <url>file://${user.home}/Dropbox/Public/mvn-repository</url>                      
+  </repository>           
+ </distributionManagement>
 </project>
