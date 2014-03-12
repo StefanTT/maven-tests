@@ -8,9 +8,9 @@
  <description>Tools for the PC for EIB device development.</description>
  <packaging>pom</packaging>
  <scm>
-  <connection>git://github.com/StefanTT/maven-tests.git</connection>
   <url>https://github.com/StefanTT/maven-tests</url>
-  <developerConnection>git@github.com:StefanTT/maven-tests.git</developerConnection>
+  <connection>scm:git:ssh://git@github.com/StefanTT/maven-tests.git</connection>
+  <developerConnection>scm:git:ssh://git@github.com:StefanTT/maven-tests.git</developerConnection>
  </scm>
  <distributionManagement>
   <repository>            
