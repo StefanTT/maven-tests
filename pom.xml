@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>com.github.stefantt</groupId>
+ <artifactId>maven-tests</artifactId>
+ <version>0.1-SNAPSHOT</version>
+ <name>Maven Tests</name>
+ <url>https://github.com/StefanTT/maven-tests</url>
+ <description>Tools for the PC for EIB device development.</description>
+ <packaging>pom</packaging>
+ <scm>
+  <connection>git://github.com/StefanTT/maven-tests.git</connection>
+  <url>https://github.com/StefanTT/maven-tests</url>
+  <developerConnection>git@github.com:StefanTT/maven-tests.git</developerConnection>
+ </scm>
+</project>
