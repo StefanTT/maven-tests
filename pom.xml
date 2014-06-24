@@ -2,7 +2,7 @@
  <modelVersion>4.0.0</modelVersion>
  <groupId>com.github.stefantt</groupId>
  <artifactId>maven-tests</artifactId>
- <version>0.4-SNAPSHOT</version>
+ <version>0.4</version>
  <name>Maven Tests</name>
  <url>https://github.com/StefanTT/maven-tests</url>
  <description>Tools for the PC for EIB device development.</description>
